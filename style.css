@@ -9,6 +9,7 @@ body {
   font-size: 1.6rem;
   background: #d6e1f0;
   color: rgb(241, 241, 241);
+  user-select: none;
 }
 .app {
   width: 70%;
